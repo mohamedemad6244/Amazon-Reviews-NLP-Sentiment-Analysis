@@ -1,4 +1,4 @@
- Amazon Reviews NLP Sentiment Analysis
+# Amazon Reviews NLP Sentiment Analysis
 
 A **Natural Language Processing (NLP) and Machine Learning project** that analyzes Amazon customer reviews to extract sentiment, generate insights, and predict product ratings. The project focuses on transforming large volumes of unstructured review data into actionable business intelligence.
 
